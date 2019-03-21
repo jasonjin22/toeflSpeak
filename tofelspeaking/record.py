@@ -3,9 +3,7 @@
 # @Email:  jasonjin22@gmail.com
 # @Date:   2019-03-21 00:25:35
 # @Last Modified by:   orres
-# @Last Modified time: 2019-03-21 10:40:37
-# This is a simulating program of TOFEL speaking section(especially for part one and two)
-# The topics in the "tofel speaking 80.txt" is collected from the internet
+# @Last Modified time: 2019-03-21 10:48:00
 
 import pyaudio
 import wave
